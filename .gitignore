@@ -1,0 +1,12 @@
+## будут игнориролваться файлы
+*._old
+*_old
+*.*_old
+_backup
+Thumbs.db
+*.DS_Store
+*DS_Store.*
+*DS_Store
+tmp/
+/tmp/
+*.txt
